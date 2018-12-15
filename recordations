@@ -21,3 +21,6 @@ Certification can be found at https://DocuXist.com/recordation/19872gshh
 ### 292923
 This entry is created on 2018-12-15 at 17:38 PM EST
 Certification can be found at a link that will be generated...
+### 223456
+In order to be able to have the Recorded Hash visible in the commit object
+include it in the message of the commit.
