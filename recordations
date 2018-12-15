@@ -24,3 +24,5 @@ Certification can be found at a link that will be generated...
 ### 223456
 In order to be able to have the Recorded Hash visible in the commit object
 include it in the message of the commit.
+### 12341234
+Let's do this one with the HASH value in the message
